@@ -5,6 +5,7 @@ Deze repository documenteert mijn voortgang binnen de OverTheWire Bandit wargame
 Bandit richt zich op het leren van Linux fundamentals en command-line vaardigheden, die de basis vormen voor ethical hacking en penetration testing.
 
 
+
 ## Doel van deze repository
 
 Het doel van deze repository is om mijn leerproces binnen cybersecurity inzichtelijk te maken door praktijkgerichte opdrachten uit te werken en te documenteren.
@@ -16,6 +17,7 @@ Per level leg ik vast:
 - Wat ik hiervan heb geleerd
 
 Op deze manier bouw ik niet alleen kennis op, maar ook een overzicht van mijn groei binnen cybersecurity.
+
 
 
 ##  Wat is OverTheWire Bandit?
@@ -36,6 +38,8 @@ Deze kennis vormt een belangrijke basis voor functies zoals:
 - Cybersecurity Engineer
 - 
 
+
+
 ## Vaardigheden die ik oefen
 
 Tijdens deze challenges werk ik aan:
@@ -48,6 +52,7 @@ Tijdens deze challenges werk ik aan:
 - Security-minded probleemoplossing
 
 
+
 ##  Repository structuur
 
 Elk Bandit level heeft een eigen map met daarin:
@@ -56,6 +61,7 @@ Elk Bandit level heeft een eigen map met daarin:
 - Gebruikte commando’s
 - Uitleg van de oplossing
 - Screenshots van het proces
+
 
 
 ## Mijn Cybersecurity Journey
