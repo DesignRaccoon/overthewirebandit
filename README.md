@@ -36,7 +36,7 @@ Deze kennis vormt een belangrijke basis voor functies zoals:
 - Penetration Tester
 - Security Analyst
 - Cybersecurity Engineer
-- 
+  
 
 
 
