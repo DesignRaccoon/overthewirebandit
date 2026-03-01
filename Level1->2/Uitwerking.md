@@ -12,7 +12,7 @@ verstopt zou zitten.
 - cat ./-
 
 ## Screenshot
-![Level 0->1](Media/level0-1.png)
+![Level 1->2](Media/level1-2.png)
 
 ## Wat ik heb geleerd
 Linux hanteert een "-"als een commando optie en niet als pad. Vandaar dat "cat -" niks terug geeft.
