@@ -16,6 +16,7 @@ De eerste opdracht is om in te loggen in het spel door gebruik te maken van SSH.
 - Wachtwoord invullen
 
 ## Screenshot
+![Level 0](Media/level0.png)
 
 ## Wat ik heb geleerd
 Hoe ik doormiddel van SSH kan inloggen op een remote Host
