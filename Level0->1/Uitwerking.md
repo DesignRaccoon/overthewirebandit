@@ -18,5 +18,8 @@ er te vinden is.
 ![Level 0->1](Media/level0-1.png)
 
 ## Wat ik heb geleerd
+- Zien welke files er allemaal aanwezig zijn
+- Files bekijken doormiddel van de cat commando
 
 ## Skills die ik heb geoefend
+- Commando's "cat" en "ls"
