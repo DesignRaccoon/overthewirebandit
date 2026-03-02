@@ -25,7 +25,14 @@ De command die uiteindelijk juist was:
 ![Level 2-3](Media/level2-3.png)
 
 ## Wat ik heb geleerd
-
+Ik heb geleerd wanneer je files aanmaakt met spaties erin, de terminal 
+denkt dat dit opties zijn voor een command. Wanneer je deze file dus 
+zomaar probeert te openen krijg je direct een error dat de opties van de
+command niet geldig zijn. Een manier om dit op te lossen is door "--" voor
+het bestand neer te zetten. Dit betekend eigenlijk dat je laat weten dat er geen
+opties meer hierna komen. Wat er achter de "--" staat behandelt linux dus niet meer
+als optie.
 
 ## Skills die ik heb geoefend
+Ik heb geoefend met verschillende manieren hoe je files met spaties erin kan openen. 
 
