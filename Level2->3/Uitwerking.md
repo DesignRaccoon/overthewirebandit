@@ -6,7 +6,7 @@ kan ik dan vervolgens gebruiken om door te gaan naar het volgende level.
 - Ik probeerde eerst de file te openen door gewoon het bestand tussen "" te zetten.
   Hierbij kreeg ik gelijk een foutmelding dat "cat" de optie niet herkende.
 - Op google gezocht hoe je files met spaties opent.
-- Geprobeerd om de file te openen doormiddel van backspaces (\) te gebruiken.
+- Geprobeerd om de file te openen doormiddel van backspaces ("\") te gebruiken.
   Dit werkte helaas ook niet en kreeg direct dezelfde error.
 - De error opgezocht op google en gezocht naar een oplossing
 - De eerste optie die ik aan het begin had gebruikt nog een keer gebruikt maar
