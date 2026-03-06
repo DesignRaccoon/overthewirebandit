@@ -1,4 +1,4 @@
-## Opdracht (Level 0 -> 1)
+## Opdracht (Level 3 -> 4)
 In dat level stond er in een verborgen map het wachtwoord voor het volgende level.
 Mijn taak was om de verborgen file te vinden en deze vervolgens te openen voor het wachtwoord.
 
