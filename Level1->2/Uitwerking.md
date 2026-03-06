@@ -1,4 +1,4 @@
-## Opdracht (Level 0 -> 1)
+## Opdracht (Level 1 -> 2)
 De opdracht van dit level was om het wachtwoord te achterhalen dat in de file "-"
 verstopt zou zitten.
 
