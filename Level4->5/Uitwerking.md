@@ -26,11 +26,17 @@ Wel werkende:
 
 
 ## Screenshot
-![Level 3->4](Media/level3-4.png)
+![Level 4->5](Media/level4-5.png)
 
 ## Wat ik heb geleerd
-Ik heb dit level niks nieuws geleerd, want ik wist al dat je verborgen files 
-
+Ik heb geleerd bij dit level dat je doormiddel van de command "find" kan achterhalen
+wat voor soort data een file bevat. Hierdoor kan je gelijk zien of er relevante data in zit. 
+Ik merkte al toen ik de opdracht aan het maken was dat ik het vervelend vond om elke file 
+1 voor 1 af te gaan om te kijken wat voor inhoud erbij zat. Met de file optie kon ik in 1x zien 
+bij welke file ik moest zijn. Achteraf had ik het nog sneller kunnen doen door "file ./* | grep ASCII" 
+te doen. Hierna zoekt die gelijk naar de file waar er gebruik wordt gemaakt van ascii.
 
 ## Skills die ik heb geoefend
+- Ik heb geoefend om doormiddel van de file optie te zoeken naar file data. Hierdoor is het
+  eenvoudiger om te vinden waar je naar zoekt. 
 
