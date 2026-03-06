@@ -1,3 +1,4 @@
+## Opdracht (Level 2 -> 3)
 De eerste opdracht is om in te loggen in het spel door gebruik te maken van SSH.
 In dit level moest ik het wachtwoord uit een bestand met spaties halen. Dit wachtwoord
 kan ik dan vervolgens gebruiken om door te gaan naar het volgende level.
